@@ -3,5 +3,5 @@
 ![Histogram](image/histogram_hardness.png)
 ![Histogram](image/conductivity.png)
 
-
+![Histogram](image/ph.png)
 
