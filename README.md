@@ -4,4 +4,4 @@
 ![Histogram](image/conductivity.png)
 ![Histogram](image/hardness.png)
 ![Histogram](image/ph.png)
-![Histogram](image/turbity.png)
+![Histogram](image/turbidity.png)
