@@ -3,4 +3,4 @@
 
 
 ![Histogram](image/corr_between_different_parameters.png)
-![Histogram](histogram_hardness.png)
+![Histogram](image/histogram_hardness.png)
